@@ -27,9 +27,9 @@ $pais = "Colombia";                         // Pais Empresa o Entidad
 
 $driver =   "postgres";                // Tipo de Base de datos. Los valores validos son: postgres, oci8, mssql.
 $servidor = "localhost:5432";          // Nombre o IP del srv de BD. Opcional puerto, 120.0.0.1:1521
-$servicio = "orfeo1";               // Nombre de la base de datos de ORFEO
-$usuario = "postgres";                    // Usuario de conexion
-$contrasena= "orfeo";           // Contraseña
+$servicio = "orfeo05";               // Nombre de la base de datos de ORFEO
+$usuario = "orfeo_user";                    // Usuario de conexion
+$contrasena= "0rf30**$$";           // Contraseña
 $db = $servicio;
 
 //#############  Servidor de correo Electronico
